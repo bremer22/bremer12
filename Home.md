@@ -42,8 +42,6 @@
 - Minimum delay before sniping invite
 - Maximum delay before sniping invite
 
-## Installation
-
 ## Default Configuration
 ```js
 {
