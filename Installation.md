@@ -1,6 +1,4 @@
-## Installation
-
-#### Repl.it (recommended)
+### Repl.it (recommended)
 
 - Visit the [dashboard](https://replit.com/~)
 - Click the `New Repl` button as seen below.<br/>
@@ -30,7 +28,7 @@
    - If you wish to update the sniper when a new version is released you can run `git pull` in the `Shell` tab as seen in this screenshot: <br />
    ![Image](https://media.wtf/81080054)
 
-#### Local
+### Local
 - Make sure [Node v14+](https://nodejs.org/en/) is installed on your system and open a command prompt/terminal.
 - Run `git clone https://github.com/slow/nitro-sniper nitro-sniper`
 - Run `cd nitro-sniper`
