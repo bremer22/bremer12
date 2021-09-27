@@ -58,8 +58,6 @@ fi
    ![Image](https://media.wtf/88041379) <br />
    - To see the output of the sniper, go to the `Console` tab. <br />
    ![Image](https://media.wtf/37329719)
-   - If you wish to update the sniper when a new version is released you can run `git pull` in the `Shell` tab as seen in this screenshot: <br />
-   ![Image](https://media.wtf/81080054)
 
 ### Local
 - Make sure [Node v14+](https://nodejs.org/en/) is installed on your system and open a command prompt/terminal.
