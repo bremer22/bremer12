@@ -18,7 +18,7 @@
 - Visit the environment variables tab.<br/>
    ![Image](https://media.wtf/52361997)
 
-- Set the key as `settings` and paste [this](#default-configuration) inside the value text box; proceed to edit your configuration.
+- Set the key as `settings` and paste [this](https://github.com/slow/nitro-sniper/wiki/Default-Configuration) inside the value text box; proceed to edit your configuration.
 
 - After you are done editing your configuration, click `Add new secret`. (You can go back to that tab whenever to change your settings)<br/>
    ![Image](https://media.wtf/49612563)
