@@ -8,9 +8,9 @@
    ![Image](https://media.wtf/75810639)
 
 - After your project gets created, delete everything in `main.sh` and paste this piece of code:
-```bash
-bash <(wget -qO- https://raw.githubusercontent.com/slow/nitro-sniper/main/main.sh)
-```
+   ```bash
+   bash <(wget -qO- https://raw.githubusercontent.com/slow/nitro-sniper/main/main.sh)
+   ```
 
 - The file should now look like this: <br/>
    ![Image](https://media.wtf/10801394)
