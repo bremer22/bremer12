@@ -13,7 +13,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/slow/nitro-sniper/main/main.s
 ```
 
 - The file should now look like this: <br/>
-   ![Image](https://media.wtf/68696927)
+   ![Image](https://media.wtf/10801394)
 
 - Visit the environment variables tab.<br/>
    ![Image](https://media.wtf/52361997)
