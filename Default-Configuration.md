@@ -26,7 +26,10 @@
       // The amount of nitros needed to be sniped for the cooldown to activate
       max: 2,
       // Cooldown to activate after max nitro has been hit (in hours)
-      cooldown: 24
+      cooldown: 24,
+      dm: {
+         delay: 10
+      }
    },
    giveaway: {
       // Wether or not to activate the giveaway sniper (true/false)
@@ -35,10 +38,15 @@
       delay: 30,
       // DM the hoster on giveaway win (true/false)
       dm: true,
-      // Message to DM the host
-      dmMessage: 'Hey, i won the giveaway. Could i redeem my prize?',
+      // Messages to DM the host
+      dmMessages: [
+         'Hey, i won the giveaway.',
+         'Could i redeem my prize?'
+      ]
       // How long to wait to DM (in seconds)
       dmDelay: 25,
+      // How long to wait between messages (in seconds)
+      messageDelay: 2,
       // Blacklisted words for giveaway prizes
       blacklistedWords: [
          'bot',
