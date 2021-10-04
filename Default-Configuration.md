@@ -42,7 +42,7 @@
       dmMessages: [
          'Hey, i won the giveaway.',
          'Could i redeem my prize?'
-      ]
+      ],
       // How long to wait to DM (in seconds)
       dmDelay: 25,
       // How long to wait between messages (in seconds)
