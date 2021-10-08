@@ -28,7 +28,7 @@
       // Cooldown to activate after max nitro has been hit (in hours)
       cooldown: 24,
       /*
-       * How long to wait before attempting to claim the nitro (in seconds)
+       * How long to wait before attempting to claim the nitro in DMs (in seconds)
        * This is to avoid suspicion when winning giveaways by slowing down the sniper from instantly sniping it.
       */
       dm: {
