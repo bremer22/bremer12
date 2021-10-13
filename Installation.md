@@ -40,4 +40,4 @@
 - Run `node .`
 
 ### Docker
-- `docker run -d -v `pwd`/.env:/app/.env nitro-sniper`
+- ```docker run -d -v `pwd`/.env:/app/.env nitro-sniper```
