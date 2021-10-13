@@ -38,3 +38,6 @@
 - Run `npm install`
 - Edit the .env file.
 - Run `node .`
+
+### Docker
+- `docker run -d -v `pwd`/.env:/app/.env nitro-sniper`
