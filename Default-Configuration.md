@@ -92,7 +92,7 @@
       max: 10,
       // Cooldown to activate after max joined invites has been hit (in hours)
       cooldown: 6,
-      // Wether to allow the main token to snipe invites (true/false)
+      // Wether to allow the main token to snipe invites ONLY if sniper mode is set to "both" (true/false)
       onlyAlts: true
    },
    webhook: {
