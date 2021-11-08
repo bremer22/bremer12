@@ -92,9 +92,9 @@
       max: 10,
       // Cooldown to activate after max joined invites has been hit (in hours)
       cooldown: 6,
-      // Wether to accept an invite on any other alt/account (depends on "mode") if the current alt has max servers (true/false)
+      // Whether to accept an invite on any other alt/account (depends on "mode") if the current alt has max servers or is on cooldown (true/false)
       queue: true,
-      // Wether to allow the main token to snipe invites ONLY if sniper mode is set to "both" (true/false)
+      // Whether to allow the main token to snipe invites ONLY if sniper mode is set to "both" (true/false)
       onlyAlts: true
    },
    webhook: {
