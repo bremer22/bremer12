@@ -1,19 +1,9 @@
 ### Repl.it (recommended)
 
+
 - Visit the [dashboard](https://replit.com/~)
-- Click the `New Repl` button as seen below.<br/>
-   ![Image](https://media.wtf/21365449)
-
-- Select the `Bash` template as seen below.<br/>
-   ![Image](https://media.wtf/75810639)
-
-- After your project gets created, delete everything in `main.sh` and paste this piece of code:
-   ```bash
-   bash <(wget -qO- https://raw.githubusercontent.com/slow/nitro-sniper/main/main.sh)
-   ```
-
-- The file should now look like this: <br/>
-   ![Image](https://media.wtf/10801394)
+- Click the badge below.<br/>
+   [![Run on Repl.it](https://replit.com/badge/github/eternal404/nitro-sniper)](https://repl.it/github/eternal404/nitro-sniper)
 
 - Visit the environment variables tab.<br/>
    ![Image](https://media.wtf/52361997)
