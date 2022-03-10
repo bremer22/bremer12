@@ -132,6 +132,8 @@
          // Mention on failure of sniping invite (true/false)
          inviteFail: false
       }
-   }
+   },
+   // Whether to log all console messages to file (true/false)
+   log: true
 }
 ```
