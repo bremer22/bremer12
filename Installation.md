@@ -3,7 +3,7 @@
 
 - Visit the [dashboard](https://replit.com/~)
 - Click the badge below.<br/>
-   [![Run on Repl.it](https://replit.com/badge/github/eternal404/nitro-sniper)](https://repl.it/github/eternal404/nitro-sniper)
+   [![Run on Repl.it](https://replit.com/badge/github/localip/nitro-sniper)](https://repl.it/github/localip/nitro-sniper)
 
 - Visit the environment variables tab.<br/>
    ![Image](https://media.wtf/52361997)
@@ -23,7 +23,7 @@
 
 ### Local
 - Make sure [Node v14+](https://nodejs.org/en/) is installed on your system and open a command prompt/terminal.
-- Run `git clone https://github.com/slow/nitro-sniper nitro-sniper`
+- Run `git clone https://github.com/localip/nitro-sniper nitro-sniper`
 - Run `cd nitro-sniper`
 - Run `npm install`
 - Edit the .env file.
